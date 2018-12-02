@@ -76,3 +76,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 4. php artisan make:model Model/Reply -mfr
 5. php artisan make:model Model/Like -mfr
 6. Check it out :)
+
+#2. Question Migration
+
+1. In table questions, add more columns: title, slug, body, category_id, and user_id
