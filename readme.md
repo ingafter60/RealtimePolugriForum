@@ -84,3 +84,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 #3. Reply Migration
 
 1. In replies table, add more columns
+
+#4. Like and Category Table
+
+1. Add more columns to table categories and likes
