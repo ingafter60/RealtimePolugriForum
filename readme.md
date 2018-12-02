@@ -66,3 +66,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 2. Setup and creating the project
 3. Pusing to Gihub
 
+## 2. Create Model, Migration Controller and Factories
+
+#1. Create Models: Question, Category, Reply and Like
+
+1. In app, create a new folder: Model
+2. php artisan make:model Model/Question -mfr
+3. php artisan make:model Model/Category -mfr
+4. php artisan make:model Model/Reply -mfr
+5. php artisan make:model Model/Like -mfr
+6. Check it out :)
