@@ -80,3 +80,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 #2. Question Migration
 
 1. In table questions, add more columns: title, slug, body, category_id, and user_id
+
+#3. Reply Migration
+
+1. In replies table, add more columns
