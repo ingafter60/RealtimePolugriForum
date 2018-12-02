@@ -88,3 +88,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 #4. Like and Category Table
 
 1. Add more columns to table categories and likes
+
+#5. Create Database with Migrations
+
+1. Create database and add db credentials to .env
+2. Run migration
