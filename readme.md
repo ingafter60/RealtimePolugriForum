@@ -104,3 +104,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 	1. In Reply, add relationships with question, user and like.
 	2. In User, add relationship with question.	
+
+#04. Factory and seeding
+
+1. Question Factory
+
+	1. In QuestionFactory, add sample factory.	
