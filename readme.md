@@ -99,3 +99,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. Question Relationships
 
 	1. Add relationship of the questions with user, replies and category
+
+2. Reply and User Relationships
+
+	1. In Reply, add relationships with question, user and like.
+	2. In User, add relationship with question.	
