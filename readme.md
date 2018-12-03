@@ -116,3 +116,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 	1. In ReplyFactory, add sample factory	
 	2. In CategoryFactory, add sample factory	
 	3. In LikeFactory, add sample factory	
+
+3. Database Seeding
+
+	1. Create db seeding for User, Category, Question, and Reply.
+	Note: FactoryLike no need, bc it will get from category_id and user_id.
