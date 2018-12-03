@@ -93,3 +93,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 1. Create database and add db credentials to .env
 2. Run migration
+
+#03. Relationships
+
+1. Question Relationships
+
+	1. Add relationship of the questions with user, replies and category
