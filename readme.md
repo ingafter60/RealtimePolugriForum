@@ -110,3 +110,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. Question Factory
 
 	1. In QuestionFactory, add sample factory.	
+
+2. Other Factories
+
+	1. In ReplyFactory, add sample factory	
+	2. In CategoryFactory, add sample factory	
+	3. In LikeFactory, add sample factory	
