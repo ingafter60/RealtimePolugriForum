@@ -15,7 +15,7 @@ $factory->define(App\Model\Question::class, function (Faker $faker) {
         	return Category::all()->random();
         },
         'user_id' => function() {
-        	return User::all()->random();
+        	return \App\User::all()->random();
         }
     ];
 });

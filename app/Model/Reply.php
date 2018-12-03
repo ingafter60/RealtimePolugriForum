@@ -7,17 +7,17 @@ use App\User;
 
 class Reply extends Model
 {
-    public funtion question()
+    public function question()
     {
     	return $this->belongsTo(Question::class);
     }
 
-    public funtion user()
+    public function user()
     {
     	return $this->belongsTo(User::class);
     }
 
-    public funtion like()
+    public function like()
     {
     	return $this->hasMany(Like::class);
     }

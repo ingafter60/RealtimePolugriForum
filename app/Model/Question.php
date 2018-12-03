@@ -3,7 +3,7 @@
 namespace App\Model;
 
 use Illuminate\Database\Eloquent\Model;
-user App\User;
+use App\User;
 
 class Question extends Model
 {
