@@ -121,3 +121,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 	1. Create db seeding for User, Category, Question, and Reply.
 	Note: FactoryLike no need, bc it will get from category_id and user_id.
+
+4. Routes for Question
+
+	1. In routes/api.php, First, create this route: Route::get('question', 'QuestionController@index');
+	2. In routes/api.php, Second, create this: Route::apiResource('question', 'QuestionController');	
