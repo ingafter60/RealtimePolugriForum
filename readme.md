@@ -126,3 +126,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 	1. In routes/api.php, First, create this route: Route::get('question', 'QuestionController@index');
 	2. In routes/api.php, Second, create this: Route::apiResource('question', 'QuestionController');	
+
+#05. Crud for Question	
+
+1. All Questions
+	
+	1. In QuestionController get and return all questions.
+
+
+
+	
