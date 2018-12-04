@@ -133,6 +133,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 	
 	1. In QuestionController get and return all questions.
 
+2. Route Model Bindings
 
+	1. To use slug instead of question_id to show a question, In Question model, create a new getRouteKeyName function wich return slug.
 
 	
